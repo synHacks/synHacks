@@ -2,13 +2,15 @@
 
 **On a mission to empower passionate youths to tackle current global issues through computer science by providing industry mentorships and inspiring hackathon experiences.**
 
+[Visit our website](https://synhacks.org/)
+
 ## Initiatives
 
-### [Hack the World 2020](http://hacktheworld.synhacks.org/)
+### [Hack the World 2020](https://hacktheworld.synhacks.org/)
 
 Only July 18-25th, 2020, **370+ students from 30+ countries** joined to initiate creative solutions to some of the world's most pressing issues.
 
-### [synHacks Lighthouse](http://lighthouse.synhacks.org/)
+### [synHacks Lighthouse](https://lighthouse.synhacks.org/)
 
 During these unprecedented times during COVID-19, synHacks is supporting Computer Science teachers and students through providing class integrated mentorship.
 
